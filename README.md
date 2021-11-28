@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src=JERRYPDX.jpg>
 </p>
   <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/cyberchekuthan">JERRY_PDX</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,12 +24,12 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
+ [![ANY DOUBT REFER IT](JERRYPDX.jpg)](https://youtu.be/5MKycJxmA4c)
 
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
+https://www.instagram.com/jerry_pdx_
 
 
   ### Simple Method
@@ -46,34 +46,34 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/jerrypdx/JERRYPDX
+$ cd JERRYPDX
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Amalser.js
+$ node JERRYPDX.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/jerrypdx/JERRYPDX
+$ cd JERRYPDX
 $ npm i
-$ node Amalser.js
+$ node JERRYPDX.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="https://github.com/jerrypdx/JERRYPDX">
     
-<a href="https://github.com/Amal-ser/followers">
+<a href="https://github.com/JERRYPDX/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Amal-ser/followers"
+<a href="https://github.com/JERRYPDX/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/jerrypdx/JERRYPDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/jerrypdx/JERRYPDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/jerrypdx/JERRYPDX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -102,14 +102,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![JERRYPDX](JERRYPDX2.jpg)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [JERRYPDX](https://github.com/jerrypdx/JERRYPDX) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
