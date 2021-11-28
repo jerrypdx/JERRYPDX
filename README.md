@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/cyberchekuthan">JERRY_PDX</a> to 
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/jerry_pdx_
+https://instagram.com/jerry_pdx_?utm_medium=copy_link
 
 
   ### Simple Method
